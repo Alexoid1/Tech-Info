@@ -1,4 +1,4 @@
-##=>>https://alexoid1.github.io/Tech-Info/#/results
+## =>>https://alexoid1.github.io/Tech-Info/#/results
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
