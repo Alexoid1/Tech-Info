@@ -1,4 +1,5 @@
 # Tech Info
+## Tech-Info using react and redux
 
 
 
