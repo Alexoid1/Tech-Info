@@ -15,7 +15,7 @@ Additional description about the project and its features.
 - Bootstrap
 - React
 - Redux
-- Js file (store Data)
+- Node Module (store Data)
 ## Live Demo
 
 [Live Demo Link](https://alexoid1.github.io/Tech-Info/#/results)
